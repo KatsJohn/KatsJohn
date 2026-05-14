@@ -1,5 +1,5 @@
 # Hello, I'm Ioannis (John) Katsoulakis!
-I’m an IBDP student, passionate about STEM, both in the abstract (Math/Physics) and the applied (Engineering/Formula 1).
+I’m an IBDP student, passionate about STEM both, in theoretical (math/physics) and practical (engineering design and apps) setups.
 
 # Academic Milestones
 * Math Olympiad: Gold Medalist 🥇
@@ -7,10 +7,12 @@ I’m an IBDP student, passionate about STEM, both in the abstract (Math/Physics
 * Focus: Applying AI and ML in real-world problems in Engineering and Finance.
 
 # Why Engineering?
-I don’t just watch Formula 1 for the race. I watch it for the aerodynamics, the telemetry, and the split-second data processing. Indicative projects that I have been working on, are:
-* Designing and developing a scale Formula 1 prototype using industry-standard CAD and CFD tools/simulations in the context of STEM Racing program.
-* Developing sustainable indoor agriculture solutions for educational environments, specializing in climate-resilient cultivation systems such as vertical tower gardens for schools. Optimizing system maintenance efficiency by researching, selecting and integrating via Python/XRP a suite of 6 specialized sensors.
+* I am passionate about F1 racing with particular interest in aerodynamics, telemetry, and the split-second data processing. In that context, I am currently
+designing and developing a scale Formula 1 prototype using industry-standard CAD and CFD tools/simulations as part of the STEM Racing program.
+---
+Beyond that, indicative projects that I have been working on, are:
 * Engineered navigation software enabling an autonomous vehicle in MIT's Racecar Challenge to navigate complex tracks via line-following, lane-tracking, and obstacle avoidance (cone slaloms).
+* Developing sustainable indoor agriculture solutions for educational environments, specializing in climate-resilient cultivation systems such as vertical tower gardens for schools. Optimizing system maintenance efficiency by researching, selecting and integrating via Python/XRP a suite of 6 specialized sensors.
 * Engineered a predictive model in Python to classify lung disease risk within a large-scale dataset of 20,000+ individuals. Performed feature selection and analysis on a multi-variable dataset (>10 parameters), optimizing the model to identify key medical indicators and improve diagnostic accuracy.
 
 # Languages:
