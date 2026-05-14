@@ -13,7 +13,7 @@ I don’t just watch Formula 1 for the race; I watch it for the aerodynamics, th
 * Data analysis of race telemetry using Python.
 
 # Languages:
-* [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-* Java
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
 
 
