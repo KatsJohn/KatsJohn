@@ -7,7 +7,7 @@ I’m a high school student currently undertaking the IB Diploma Programme, with
 * Focus: Bridging the gap between theoretical physics and computational engineering.
 
 # Why Engineering?
-I don’t just watch Formula 1 for the race; I watch it for the aerodynamics, the telemetry, and the split-second data processing. I’m currently building projects that explore:
+I don’t just watch Formula 1 for the race. I watch it for the aerodynamics, the telemetry, and the split-second data processing. I’m currently building projects that explore:
 * Computational Fluid Dynamics (CFD) simulations.
 * Mathematical modeling of orbital mechanics.
 * Data analysis of race telemetry using Python.
