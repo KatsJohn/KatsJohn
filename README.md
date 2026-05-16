@@ -1,5 +1,5 @@
 # Hello, I'm Ioannis (John) Katsoulakis!
-I’m an IBDP student, passionate about STEM both, in theoretical (math/physics) and practical (engineering design and apps) setups.
+I’m an IBDP student, passionate about STEM in both, theoretical (math/physics) and practical (engineering design and applications) setups.
 
 # Academic Milestones
 * Math Olympiad: Gold Medalist 🥇
